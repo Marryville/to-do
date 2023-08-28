@@ -5,6 +5,7 @@ import { FormsModule } from '@angular/forms';
 import { HomePage } from './home.page';
 
 import { HomePageRoutingModule } from './home-routing.module';
+//import { AddNewTaskPage } from '../add-new-task/add-new-task.page';
 
 
 @NgModule({
